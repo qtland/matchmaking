@@ -1,8 +1,5 @@
-# qtland Matchmaking Server (QMS)
-A qtland Server is a identical server to Valve matchmaking in TF2.
-
-## What is this?
-This repo is created to store srcds server config and for archiving.
+# Matchmaking Repository
+This repository is used for qtlands community match servers. Archived server cfgs, and up to important bits.
 
 ## Bug Reporting
-If you encounter a bug, please use the Issues tab saying what is your problem.
+Our match servers are still in beta. If you encounter a bug with our servers, please use the Issues tab describing your encounter.
