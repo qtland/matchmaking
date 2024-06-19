@@ -193,16 +193,16 @@
 | Coal Town (`mvm_coaltown`)      | 94     |
 | Decoy (`mvm_decoy`)      | 93     |
 | Big Rock (`mvm_bigrock`)      | 92     |
-| MvM Rottenburg (`mvm_rottenburg`) | 91 |
-| MvM Mannhattan (`mvm_mannhattan`) | 90 |
-| MvM Ghost Town (`mvm_ghost_town`) | 89 |
-| Arena Byre (`arena_byre`) 	    | 73 |
-| Arena Well (`arena_well`)	    | 72 |
-| Arena Sawmill (`arena_sawmill`)  | 71 |
-| Arena Ravine 	(`arena_ravine`)  | 70 |
-| Arena Nucleus (`arena_nucleus`) 	| 69 |
-| Arena Lumberyard (`arena_lumberyard`) | 68 |
-| Arena Granary (`arena_granary`)	| 67 |
-| Arena Badlands (`arena_badlands`)  | 66 |
-| Arena Offblast (`arena_offblast_final`) 	| 65 |
-| Arena Watchtower (`arena_watchtower`) | 64 |
+| Rottenburg (`mvm_rottenburg`) | 91 |
+| Mannhattan (`mvm_mannhattan`) | 90 |
+| Ghost Town (`mvm_ghost_town`) | 89 |
+| Byre (`arena_byre`) 	    | 73 |
+| Well (`arena_well`)	    | 72 |
+| Sawmill (`arena_sawmill`)  | 71 |
+| Ravine 	(`arena_ravine`)  | 70 |
+| Nucleus (`arena_nucleus`) 	| 69 |
+| Lumberyard (`arena_lumberyard`) | 68 |
+| Granary (`arena_granary`)	| 67 |
+| Badlands (`arena_badlands`)  | 66 |
+| Offblast (`arena_offblast_final`) 	| 65 |
+| Watchtower (`arena_watchtower`) | 64 |
