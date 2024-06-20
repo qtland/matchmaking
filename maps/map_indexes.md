@@ -3,7 +3,7 @@
 | :------------- |-------------:|
 | Camber (`pl_camber`)     | 180 |
 | Emerge (`pl_emerge`)     | 179     |
-| Brew (`cp_brew)` | 174      |
+| Brew (`cp_brew`) | 174      |
 | VSH Nucleus (`vsh_nucleus`) | 158     |
 | VSH Skirmish (`vsh_skirmish`) | 157     |
 | VSH Distillery (`vsh_distillery`) | 156     |
