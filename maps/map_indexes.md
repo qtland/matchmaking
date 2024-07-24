@@ -1,3 +1,17 @@
+## Special Event: Summer 2024 (Casual)
+| Map Name       | Map Index           |
+| :------------- |-------------:|
+| Embargo (`pl_embargo`)     | 181 |
+| Odyssey (`pl_odyssey`)     | 182 |
+| Megaton (`koth_megaton`)     | 183 |
+| Cachoeira (`koth_cachoeira`)     | 184 |
+| Overgrown (`cp_overgrown`)     | 185 |
+| Hadal (`cp_hadal`)     | 186 |
+| Applejack (`ctf_applejack`)     | 187 |
+| Atom Smash (`pd_atom_smash`)     | 188 |
+| Canaveral (`cp_canaveral_5cp`)     | 189 |
+| Burghausen (`cp_burghausen`)     | 190 |
+
 ## Current Rotation (Casual)
 | Map Name       | Map Index           |
 | :------------- |-------------:|
