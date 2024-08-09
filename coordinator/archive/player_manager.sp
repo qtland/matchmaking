@@ -1,4 +1,4 @@
-#!!! This file is outdated but looks almost the exact way as today release. !!!
+//!!! This file is outdated but looks almost the exact way as today release. !!!
 
 #pragma semicolon 1
 #include <tf2>
