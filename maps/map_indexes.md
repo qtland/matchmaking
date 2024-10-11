@@ -1,16 +1,13 @@
-## Special Event: Summer 2024 (Casual)
+## Special Event: Scream Fortress 2024 (Casual)
 | Map Name       | Map Index           |
 | :------------- |-------------:|
-| Embargo (`pl_embargo`)     | 181 |
-| Odyssey (`pl_odyssey`)     | 182 |
-| Megaton (`koth_megaton`)     | 183 |
-| Cachoeira (`koth_cachoeira`)     | 184 |
-| Overgrown (`cp_overgrown`)     | 185 |
-| Hadal (`cp_hadal`)     | 186 |
-| Applejack (`ctf_applejack`)     | 187 |
-| Atom Smash (`pd_atom_smash`)     | 188 |
-| Canaveral (`cp_canaveral_5cp`)     | 189 |
-| Burghausen (`cp_burghausen`)     | 190 |
+| Toxic (`koth_toxic`)     | 191 |
+| Darkmarsh (`cp_darkmarsh`)     | 192 |
+| Freaky Fair (`cp_freaky_fair`)     | 193 |
+| Dynamite (`tow_dynamite`)     | 194 |
+| Circus (`pd_circus`)     | 195 |
+| Outburst (`vsh_outburst`)     | 196 |
+| Blazehattan (`zi_blazehattan`)     | 197 |
 
 ## Current Rotation (Casual)
 | Map Name       | Map Index           |
@@ -123,6 +120,20 @@
 | Wutville (`pl_wutville_event`) | 121  |
 | Snowfall (`ctf_snowfall_final`) | 120  |
 | SnowVille (`pd_snowville_event`) | 119  |
+
+## Summer 2024 (Casual)
+| Map Name       | Map Index           |
+| :------------- |-------------:|
+| Embargo (`pl_embargo`)     | 181 |
+| Odyssey (`pl_odyssey`)     | 182 |
+| Megaton (`koth_megaton`)     | 183 |
+| Cachoeira (`koth_cachoeira`)     | 184 |
+| Overgrown (`cp_overgrown`)     | 185 |
+| Hadal (`cp_hadal`)     | 186 |
+| Applejack (`ctf_applejack`)     | 187 |
+| Atom Smash (`pd_atom_smash`)     | 188 |
+| Canaveral (`cp_canaveral_5cp`)     | 189 |
+| Burghausen (`cp_burghausen`)     | 190 |
 
 ## Halloween Rotation (Casual)
 | Map Name       | Map Index           |
